@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi Everyone 👋
 
-<!--
-**FiberesimaJoseph/FiberesimaJoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Joseph Fiberesima, i love to make the impossible possible 
 
-Here are some ideas to get you started:
+'im very passionate about  collaborating with teams to building great solutions that solve real problems Currently, these are the frameworks, libraries, technologies, tools, platforms I currently use
+Javascript
+Typescript
+GraphQL
+React
+Node/express
+PostgreSQL
+Google Cloud
+Html
+CSS
+SASS
+You can chat me up on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://web.facebook.com/profile.php?id=100032344492092
+https://twitter.com/JosephFiberesi1
+https://www.linkedin.com/in/joseph-fiberesima-607777193/
+josephfiberesima@gmail.com
+
+Lover of Open source Africa
