@@ -15,8 +15,8 @@ I am Joseph Fiberesima, i love to make the impossible possible
 *SASS
 You can chat me up on
 
-_https://web.facebook.com/profile.php?id=100032344492092
-_https://twitter.com/JosephFiberesi1
+*https://web.facebook.com/profile.php?id=100032344492092
+*https://twitter.com/JosephFiberesi1
 *https://www.linkedin.com/in/joseph*fiberesima*607777193/
 *josephfiberesima@gmail.com
 
